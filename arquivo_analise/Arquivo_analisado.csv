@@ -1,0 +1,13 @@
+produto,categoria,preco,quantidade,faturamento
+Notebook,Eletrônicos,3500,3,10500
+Smartphone,Eletrônicos,2000,5,10000
+Sofá,Móveis,2500,1,2500
+Relógio,Acessórios,500,4,2000
+Cadeira,Móveis,800,2,1600
+Fone de Ouvido,Eletrônicos,150,10,1500
+Tênis,Roupas,300,5,1500
+Bolsa,Acessórios,700,2,1400
+Mesa,Móveis,1200,1,1200
+Calça,Roupas,120,10,1200
+Óculos,Acessórios,350,3,1050
+Camiseta,Roupas,50,20,1000
